@@ -1,0 +1,10 @@
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\bin\Debug\AplikasiKalkulator.exe.config
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\bin\Debug\AplikasiKalkulator.exe
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\bin\Debug\AplikasiKalkulator.pdb
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.csproj.AssemblyReference.cache
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.Form1.resources
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.Properties.Resources.resources
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.csproj.GenerateResource.cache
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.csproj.CoreCompileInputs.cache
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.exe
+H:\semester 3\pemrog lanjut\praktikum\AplikasiKalkulator\obj\Debug\AplikasiKalkulator.pdb
